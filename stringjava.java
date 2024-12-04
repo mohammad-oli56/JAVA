@@ -1,6 +1,7 @@
 package JAVA;
 
 public class stringjava {
+    @SuppressWarnings("unused")
     public static void main(String[] args) {
       // 1. length method
 
